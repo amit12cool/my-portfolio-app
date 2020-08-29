@@ -51,7 +51,7 @@ export default class Timeline extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2><a href="#"> Technical Leader - Monotype Solutions India Pvt Ltd.</a> <span>2015-present</span></h2>
+                        <h2><a href="#"> Technical Leader - Monotype Solutions India Pvt Ltd.</a> <span>2015-2019</span></h2>
                         <ul>
                           <li>
                             <p> <b> Page View Tracking </b> -  ETL pipeline for batch and real time processing of raw server log files whose size ranging from 60-70 GB daily</p>

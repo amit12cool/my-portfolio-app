@@ -13,7 +13,7 @@ export default class About extends Component {
                         <div className="about-desc">
                         <span className="heading-meta">About Me</span>
                         <h2 className="colorlib-heading">Who Am I?</h2>
-                        <p> Human | Engineering leader | Javascript | ReactJS | Node.js | AWS cloud expert | ETL pipeline | Devops | iOS</p>
+                        <p> Human | Engineering leader | Microservices | Managed Services | Serverless | Azure IoT | Data Engineering | Serverless | NestJS | NoSQL | NodeJS | Typescript </p>
                         <p> Iam a energetic software engineer with a passion to drive business value through innovation and operational excellence delivering superior engineering solutions at scale. </p>
                         </div>
                     </div>
@@ -37,15 +37,15 @@ export default class About extends Component {
                         <i className="icon-bulb" />
                     </span>
                     <div className="desc">
-                        <h3>Team Leader - Microservices / Frontend Development</h3>
-                        <p> Advocate of code reviews with pre-comit checks on PR's, Maintainable and easily understood code, TDD and DDD </p>
-                        <p> Design and development of Microservices </p>
-                        <p> Provide solutions to complex problems </p>
-                        <p> Code reviews </p>
-                        <p> Design and development of microservices using engineering best practices </p>
+                        <h3> Microservices / Backend Development</h3>
+                        <p> Designed scalable microservices </p>
+                        <p> Advocate of code reviews, TDD, DDD </p>
+                        <p> Hands-on in architecting/automating and optimising mission critical microservices </p>
+                        <p> Expertise in helm charts, Kubernetes, CI/CD </p>
+                        <p> Tech stack used - NestJS, Typescript, NodeJS  </p>
+                        <p> Guide/help team members to understand various Azure IoT managed services </p>
                         <p> Strive for quality engineering product using practices like CI/CD, Pre commit hooks, TDD, DDD, Code analysis etc.</p>
-                        <p> Developed serverless REST api's using AWS managed services</p>
-                        <p> Frontend design and development using ReactJS as the library to develop resuable UI components</p>
+                        <p> Developed serverless RESTful api's using AWS managed services </p>
                     </div>
                     </div>
                 </div>
@@ -59,7 +59,7 @@ export default class About extends Component {
                         <p> Contribute to open source community through platforms like Medium, Github, StackOverflow etc. </p>
                         <p> Explore new technologies and provide MVP/POC's to help team in providing best solutions to software engineering problems</p>
                         <p> Motivate team members to learn new technologies and contribute back to community</p>
-                        <p> Some of my interests in tech stack - Javascript, ReactJS, React-Native, Apache spark, Hadoop, AWS Athena, Node.js, NoSql databases, Redux, Python etc. </p>
+                        <p> Some of my interests in tech stack - IoT, NestJS, Javascript, React-Native, Node.js, NoSql databases, Kubernetes </p>
                     </div>
                     </div>
                 </div>
@@ -69,11 +69,11 @@ export default class About extends Component {
                         <i className="icon-cloud-storage" />
                     </span>
                     <div className="desc">
-                        <h3>DevOps</h3>
-                        <p> Improve and streamline CI/CD process to reduce our time to market </p>
-                        <p> Guide team members towards solution to complex devops problems </p>
-                        <p> Advocate of Infrastructure as code and CI/CD </p>
-                        <p> Hands on expierence on - Jenkins, Shell script, AWS cloud, Ansible, Packer, Spinacker, Terraform etc. </p>
+                        <h3>Azure IoT</h3>
+                        <p> Expertise in designing IoT solutions </p>
+                        <p> Hands on - IoT edge computing, Event hub, IoT hub, Event Grid, Stream Analytics, Device Provisioning Service, Azure Device & Service sdk, IoT central </p>
+                        <p> Designed and buit end to end IoT solutions </p>
+                        <p> Provide/derive meaningful insights from IoT data to customers  </p>
                     </div>
                     </div>
                 </div>
@@ -85,7 +85,7 @@ export default class About extends Component {
                     <div className="desc">
                         <h3>iOS apps development</h3>
                         <p> 6+ years of iOS application development </p>
-                        <p> Hands on with Swift, Objective C, iOS and MACOSX. </p>
+                        <p> Worked on with Swift, Objective C, iOS and MACOSX. </p>
                     </div>
                     </div>
                 </div>

@@ -17,6 +17,36 @@ export default class Timeline extends Component {
                 <div className="timeline-centered">
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-1">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2><a href="#"> Associate Technical Specialist - Barco Electronic Systems Private Limited.</a> <span>2019-present</span></h2>
+                        <ul>
+                          <li>
+                            <p> <b> Device configuration microservice </b> - Design end to end IoT solutions to capture device telemetry messages, log file upload from device to cloud, direct method invocation on device, process device twin events</p>
+                          </li>
+                          <li>
+                            <p> <b> Device claim microservice </b> - Onboard new devices with unique token generation embedded in device twin desired properties</p>
+                          </li>
+                          <li>
+                            <p> <b> Device registry microservice </b> - Provide device information captured from sources like Azure IoT, Salesforce, Flexara etc.</p>
+                          </li>
+                          <li>
+                            <p> <b> Azure IoT edge  </b> - Designed & developed IoT edge solutions using transparent gateway design pattern </p>
+                          </li>
+                          <li>
+                            <p> <b> Azure IoT solutions </b> - Event processing using Azure IoT service sdk, D2C and C2D message processing, message enrichment </p>
+                          </li>
+                          <li>
+                            <p> <b> Helm chart & Kubernetes deployment </b> - Microservices deployed using helm chart and kubernetes  </p>
+                          </li>
+                        </ul>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
                         <i className="icon-pen2" />
                       </div>
